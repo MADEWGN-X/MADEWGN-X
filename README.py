@@ -1,4 +1,3 @@
-```python
 # Personal Information
 profile = {
     "name": "MADE WGN",
@@ -18,5 +17,3 @@ contact = {
     "email": "madewgn2@gmail.com",
     "website": "madewgn.web.id"
 }
-
-```
